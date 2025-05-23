@@ -44,7 +44,7 @@ This project explores global cybersecurity threats using data science and machin
 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](dashboard.png)
+Dashboard-Data_Science_in_Cybersecurity.pbix
 
 ---
 
